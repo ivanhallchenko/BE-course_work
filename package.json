@@ -1,0 +1,19 @@
+{
+  "name": "js-course",
+  "version": "1.0.0",
+  "description": "This is a Restful service testing framework using Supertest and Mocha",
+  "main": "courseWork.specs.js",
+  "scripts": {
+    "test": "mocha src/specs/*"
+  },
+  "mocha": {},
+  "devDependencies": {
+    "mocha": "^6.2.2",
+    "superagent": "^5.1.0",
+    "superagent-retry": "^0.6.0"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "superagent-retry-delay": "^2.3.0"
+  }
+}
