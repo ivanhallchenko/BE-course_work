@@ -2,7 +2,7 @@
   "name": "js-course",
   "version": "1.0.0",
   "description": "This is a Restful service testing framework using Supertest and Mocha",
-  "main": "courseWork.specs.js",
+  "main": "",
   "scripts": {
     "test": "mocha src/specs/*"
   },
